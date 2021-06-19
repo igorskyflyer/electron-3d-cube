@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+		<meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+		<title>Interactive 3D Cube (Electron Edition)</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+		<main>
+			<div class="scene">
+				<div class="cube">
+					<div class="cube-front">Front</div>
+					<div class="cube-back">Back</div>
+					<div class="cube-top">Top</div>
+					<div class="cube-right">Right</div>
+					<div class="cube-bottom">Bottom</div>
+					<div class="cube-left">Left</div>
+				</div>
+			</div>
+		</main>
+		<script src="renderer.js"></script>
+		<script src="script.js"></script>
+	</body>
+
+</html>
