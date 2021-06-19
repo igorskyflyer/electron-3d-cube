@@ -4,7 +4,7 @@ This Electron app is an implementation of code from my other repo [Interactive 3
 <br>
 
 <p align="center">
-	<img src="https://github.com/igorskyflyer/electron-3d-cube/raw/main/assets/screenshot.png" style="max-width: 300px">
+	<img src="https://github.com/igorskyflyer/electron-3d-cube/raw/main/assets/screenshot.png" alt="Application screenshot">
 </p>
 
 <br>
