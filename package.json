@@ -1,16 +1,16 @@
 {
-  "name": "interactive-3d-cube",
-  "productName": "Interactive 3D Cube",
-  "description": "Interactive 3D Cube",
-  "keywords": [],
-  "main": "./main.js",
-  "version": "1.0.0",
-  "author": "SkyFlyer",
-  "scripts": {
-    "start": "electron ."
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "electron": "13.1.2"
-  }
+	"name": "interactive-3d-cube",
+	"productName": "Interactive 3D Cube",
+	"description": "Interactive 3D Cube",
+	"keywords": [],
+	"main": "./main.js",
+	"version": "1.0.0",
+	"author": "SkyFlyer",
+	"scripts": {
+		"start": "electron ."
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"electron": "20.1.0"
+	}
 }
