@@ -1,4 +1,5 @@
-<h2 align="center">3D Cube meets Electron! 🟪🤝⚛</h2>
+<h2 align="center">3D Cube meets Electron!</h2>
+<h2 align="center">🟪🤝⚛</h2>
 
 This Electron app is an implementation of code from my other repo [Interactive 3D Cube](https://github.com/igorskyflyer/my-pens/tree/main/interactive-3d-cube) which is available as a part of a collection of front-end projects at [MyPens](https://github.com/igorskyflyer/my-pens).
 <br>
