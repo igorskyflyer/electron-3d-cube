@@ -4,13 +4,12 @@
 	"description": "Interactive 3D Cube",
 	"keywords": [],
 	"main": "./main.js",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "SkyFlyer",
 	"scripts": {
 		"start": "electron ."
 	},
-	"dependencies": {},
 	"devDependencies": {
-		"electron": "20.1.0"
+		"electron": "^20.1.0"
 	}
 }
